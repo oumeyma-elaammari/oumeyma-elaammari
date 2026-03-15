@@ -10,21 +10,21 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
  
-  I'm currently working on **improving my skills in Full Stack Development & AI**
+  🔭 I'm currently working on **improving my skills in Full Stack Development & AI**
  
-  I'm currently learning **Web and mobile Development, DevOps and AI**
+  🌱 I'm currently learning **Web and mobile Development, DevOps and AI**
  
-  I'm looking for a **PFA Internship (Final Year Project)**
+  👯 I'm looking for a **PFA Internship (Final Year Project)**
  
- 📫 Reach me at **elaammarioumeima@gmail.com**
+  📫 Reach me at **elaammarioumeima@gmail.com**
  
- ⚡ I enjoy **building practical software projects and exploring new technologies**
+  ⚡ I enjoy **building practical software projects and exploring new technologies**
 
 </div>
 
-<div align="center"> 
+<div align="left"> 
   <a href="mailto:elaammarioumeima@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -40,33 +40,39 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
-<h2 align="center">🎯 Professional Objective</h2>
+<h2 align="left">🎯 Professional Objective</h2>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Software%20Engineering-Student-6B46C1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PFA%20Internship-Searching-2E8B57?style=for-the-badge" />
 </p>
 
-<p align="center">
+<p align="left">
   Software Engineering student at the National School of Applied Sciences of Oujda (ENSAO), passionate about software development and building innovative digital solutions. 
   Serious, autonomous and team-oriented, I am seeking a Final Year Project Internship (PFA) to apply my technical skills while contributing to concrete, high-value projects.
 </p>
 
-<h2 align="center">🎓 Education</h2>
+<h2 align="left">🎓 Education</h2>
 
-<div align="center">
+<div align="left">
   
-| Period | Institution | Diploma |
-|:------:|:-----------:|:--------|
-| 2024 - 2027 | National School of Applied Sciences of Oujda (ENSAO) | Engineering Cycle in Computer Science |
-| 2022 - 2024 | National School of Applied Sciences of Oujda (ENSAO) | Preparatory Cycle - Engineering Sciences |
-| 2021 - 2022 | Lycée Ibn Sina Oujda | Baccalaureate in Physical Sciences - Very Good Honor |
+  <b>📌 2024 - 2027</b><br>
+  Engineering Cycle in Computer Science<br>
+  National School of Applied Sciences of Oujda (ENSAO)<br><br>
+  
+  <b>📌 2022 - 2024</b><br>
+  Preparatory Cycle - Engineering Sciences<br>
+  National School of Applied Sciences of Oujda (ENSAO)<br><br>
+  
+  <b>📌 2021 - 2022</b><br>
+  Baccalaureate in Physical Sciences - Very Good Honor<br>
+  Lycée Ibn Sina Oujda
 
 </div>
 
-<h2 align="center">💼 Professional Experience</h2>
+<h2 align="left">💼 Professional Experience</h2>
 
-<div align="center">
+<div align="left">
   <h3>📍 Initiation Internship – Cleverix (July 2025)</h3>
   <p><strong>React / Laravel Training: E-commerce Web Application Development</strong></p>
   
@@ -75,56 +81,47 @@
   • Implementation of a secure authentication system with role management (admin, sub-admin, client)
 </div>
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="left">🚀 Featured Projects</h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">RoadmapDev</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" />
-          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-        </p>
-        <p align="center"><strong>E-learning Platform</strong> - Web application for managing progressive learning modules with interactive dashboard and student progress tracking.</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">RhVerse</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-          <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-        </p>
-        <p align="center"><strong>HR Mobile Application</strong> - Android application for human resources management including attendance tracking, leave requests, meetings, and certificates.</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">ArchvoxLib</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Tkinter-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
-          <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
-        </p>
-        <p align="center"><strong>Library Management System</strong> - Desktop application for managing books, members and loans with graphical interface and statistics.</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">MemoPharma</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/JavaFX-FF6B6B?style=for-the-badge&logo=java&logoColor=white" />
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-          <img src="https://img.shields.io/badge/SceneBuilder-007396?style=for-the-badge&logo=java&logoColor=white" />
-        </p>
-        <p align="center"><strong>Medical Monitoring Management</strong> - JavaFX application for managing patients, treatments and appointments with secure authentication and statistics.</p>
-      </td>
-    </tr>
-  </table>
+<div align="left">
+  
+  <h3>📌 RoadmapDev</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  </p>
+  <p><strong>E-learning Platform</strong> - Web application for managing progressive learning modules with interactive dashboard and student progress tracking.</p>
+  
+  <h3>📌 RhVerse</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  </p>
+  <p><strong>HR Mobile Application</strong> - Android application for human resources management including attendance tracking, leave requests, meetings, and certificates.</p>
+  
+  <h3>📌 ArchvoxLib</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tkinter-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
+    <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+  </p>
+  <p><strong>Library Management System</strong> - Desktop application for managing books, members and loans with graphical interface and statistics.</p>
+  
+  <h3>📌 MemoPharma</h3>
+  <p>
+    <img src="https://img.shields.io/badge/JavaFX-FF6B6B?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/SceneBuilder-007396?style=for-the-badge&logo=java&logoColor=white" />
+  </p>
+  <p><strong>Medical Monitoring Management</strong> - JavaFX application for managing patients, treatments and appointments with secure authentication and statistics.</p>
+  
 </div>
 
-<h2 align="center">💻 Technical Skills</h2>
+<h2 align="left">💻 Technical Skills</h2>
 
-<div align="center">
+<div align="left">
   
 <h3>Languages</h3>
 <p>
@@ -181,18 +178,19 @@
 
 </div>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="left">📊 GitHub Stats</h2>
 
-<div align="center">
+<div align="left">
  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oumeyma-elaammari&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumeyma-elaammari&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
+  
 </div>
-<h2 align="center">🌟 Extracurricular Activities</h2>
 
-<div align="center">
+<h2 align="left">🌟 Extracurricular Activities</h2>
+
+<div align="left">
   <br>
   <p>
     <b>🏥 Altruism Club – ENSAO</b> (2023 – 2025)<br>
@@ -205,12 +203,23 @@
     <b>💻 Computer Science Club – ENSAO</b> (2024 – 2025)<br>
     <i>Active Member - Design Cell</i><br>
     • Visual content creation and design for club events<br>
-    • Participation in technical workshops and hackathons
+    • Participation in technical workshops 
   </p>
 </div>
-<h2 align="center">🏆 Soft Skills</h2>
 
-<div align="center">
+<h2 align="left">🌐 Languages</h2>
+
+<div align="left">
+  <p>
+    <b>🇲🇦 Arabic:</b> Native<br>
+    <b>🇫🇷 French:</b> Fluent<br>
+    <b>🇬🇧 English:</b> Intermediate
+  </p>
+</div>
+
+<h2 align="left">🏆 Soft Skills</h2>
+
+<div align="left">
   <p>
     <img src="https://img.shields.io/badge/Autonomy-FF6B6B?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Responsibility-4ECDC4?style=for-the-badge" />
@@ -227,10 +236,10 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=EL-AAMMARI-Oumeyma&style=for-the-badge&color=blueviolet" alt="Profile views" />
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=oumeyma-elaammari&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </div>
 
-<div align="center">
+<div align="left">
   <i>⭐️ From Oumeyma ELAAMMARI</i>
 </div>
