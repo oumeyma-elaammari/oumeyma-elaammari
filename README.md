@@ -82,9 +82,7 @@
 </div>
 
 <h2 align="left">🚀 Featured Projects</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/oumeyma-elaammari/oumeyma-elaammari/output/github-contribution-grid-snake-dark.svg" alt="Animation serpent des contributions GitHub" />
-</div>
+
 
 <div align="left">
   
