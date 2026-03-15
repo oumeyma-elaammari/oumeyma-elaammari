@@ -191,54 +191,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumeyma-elaammari&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
 </div>
 
-
 <h2 align="center">🌟 Extracurricular Activities</h2>
 
 <div align="center">
   <br>
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    
-  <!-- Club Altruisme Card -->
-  <img src="https://img.shields.io/badge/🏥_Club_Altruisme-FF6B6B?style=for-the-badge" />
-  <br>
-  <table>
-    <tr>
-      <td align="center" width="400">
-        <img src="https://img.icons8.com/color/96/000000/charity.png" width="60"/>
-        <h3>🏥 Altruism Club – ENSAO</h3>
-        <p><strong>Vice President & Al-Masjid Cell Responsible</strong></p>
-        <p>📅 2023 – 2025</p>
-        <p>
-          <img src="https://img.shields.io/badge/Leadership-FF6B6B?style=flat-square" />
-          <img src="https://img.shields.io/badge/Event_Management-4ECDC4?style=flat-square" />
-          <img src="https://img.shields.io/badge/Team_Coordination-45B7D1?style=flat-square" />
-        </p>
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-  <!-- Club Génie Informatique Card -->
-  <img src="https://img.shields.io/badge/💻_Club_Génie_Informatique-6C5B7B?style=for-the-badge" />
-  <br>
-  <table>
-    <tr>
-      <td align="center" width="400">
-        <img src="https://img.icons8.com/color/96/000000/computer.png" width="60"/>
-        <h3>💻 Computer Science Club – ENSAO</h3>
-        <p><strong>Active Member - Design Cell</strong></p>
-        <p>📅 2024 – 2025</p>
-        <p>
-          <img src="https://img.shields.io/badge/UI/UX_Design-FF6B6B?style=flat-square" />
-          <img src="https://img.shields.io/badge/Creative_Design-4ECDC4?style=flat-square" />
-          <img src="https://img.shields.io/badge/Brainstorming-45B7D1?style=flat-square" />
-        </p>
-      </td>
-    </tr>
-  </table>
-
-  </div>
+  <p>
+    <b>🏥 Club Altruisme – ENSAO</b> (2023 – 2025)<br>
+    <i>Vice-présidente et responsable de cellule Al-Masjid</i><br>
+    • Leadership d'équipe et coordination d'activités caritatives<br>
+    • Organisation d'événements communautaires et gestion de cellule
+  </p>
+  
+  <p>
+    <b>💻 Club Génie Informatique – ENSAO</b> (2024 – 2025)<br>
+    <i>Membre active de cellule Design</i><br>
+    • Création de contenu visuel et design pour les événements du club<br>
+    • Participation aux ateliers techniques et hackathons
+  </p>
 </div>
 <h2 align="center">🏆 Soft Skills</h2>
 
