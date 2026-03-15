@@ -1,26 +1,255 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Oumeyma+ELAAMMARI;"Software+Engineering+Student";"AI+&+Web+Development+Enthusiast"" />
+</h1>
 
-<h1 align="center">Hi 👋, I'm  Oumeyma ELAAMMARI 
-<br>
-Software Engineering Student : AI and Web Developement enthusiast</h1>
-<h3 align="center">Software Engineering student at the National School of Applied Sciences of Oujda (ENSAO), passionate about software development and building innovative digital solutions. Motivated, autonomous and team-oriented, I am currently seeking a Final Year Project Internship (PFA) to apply my technical skills and contribute to impactful real-world projects.</h3>
+<h3 align="center">🎓 Software Engineering student at the National School of Applied Sciences of Oujda (ENSAO)</h3>
 
-- RoadmapDev – E-Learning Platform **Developed a web application to manage progressive learning modules with an interactive dashboard and student progress tracking.**
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
 
-- 🌱 I’m currently learning **Web and mobile Development DevOps and AI**
+<br/>
 
-- RhVerse – HR Mobile Application **Developed an Android application for human resources management including attendance tracking, leave requests, meetings, and certificates.**
+<div align="center">
+ 
+ 🔭 I'm currently working on **improving my skills in Full Stack Development & AI**
+ 
+ 🌱 I'm currently learning **Web and mobile Development, DevOps and AI**
+ 
+ 👯 I'm looking for a **PFA Internship (Final Year Project)**
+ 
+ 📫 Reach me at **elaammarioumeima@gmail.com**
+ 
+ ⚡ I enjoy **building practical software projects and exploring new technologies**
 
-- ArchvoxLib – Library Management System **Developed a desktop application to manage books, members, and borrow/return operations with graphical interface and statistics.**
+</div>
 
-- 📫 **email : elaammarioumeima@gmail.com linkedIn : https://www.linkedin.com/in/oumeyma-elaammari/**
+<div align="center"> 
+  <a href="mailto:elaammarioumeima@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/oumeyma-elaammari/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/EL-AAMMARI-Oumeyma" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
-- ⚡ **I enjoy building practical software projects and exploring new technologies in web development, DevOps and AI.**
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2 align="center">🎯 Professional Objective</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineering-Student-6B46C1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PFA%20Internship-Searching-2E8B57?style=for-the-badge" />
 </p>
 
-<h3 align="left">Top skills :</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  Élève ingénieure en Génie Informatique, passionnée par le développement logiciel et la conception de solutions innovantes. 
+  Sérieuse, autonome et orientée travail en équipe, je recherche un stage de Projet de Fin d’Année (PFA) afin d’appliquer 
+  mes compétences techniques tout en contribuant à des projets concrets et à forte valeur ajoutée.
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oumeyma-elaammari&show_icons=true&locale=en&layout=compact" alt="oumeyma-elaammari" /></p>
+<h2 align="center">🎓 Education</h2>
+
+<div align="center">
+  
+| Period | Institution | Diploma |
+|:------:|:-----------:|:--------|
+| 2024 - 2027 | École Nationale des Sciences Appliquées d'Oujda (ENSAO) | Cycle Ingénieur en Génie Informatique |
+| 2022 - 2024 | École Nationale des Sciences Appliquées d'Oujda (ENSAO) | Cycle Préparatoire – Sciences techniques pour l'ingénieur |
+| 2021 - 2022 | Lycée Ibn Sina Oujda | Baccalauréat Sciences Physiques – Mention Très Bien |
+
+</div>
+
+<h2 align="center">💼 Professional Experience</h2>
+
+<div align="center">
+  <h3>📍 Stage d'initiation – Cleverix (Juillet 2025)</h3>
+  <p><strong>Formation React / Laravel : Développement d'une application web e-commerce</strong></p>
+  
+  • Interface utilisateur dynamique avec React (Hooks, Context API, Router)<br>
+  • Dashboard administrateur pour la gestion des utilisateurs, produits et commandes<br>
+  • Implémentation d'un système d'authentification sécurisé avec gestion des rôles (admin, sous-admin, client)
+</div>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">RoadmapDev</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" />
+          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+        </p>
+        <p align="center"><strong>Plateforme E-learning</strong> - Application web permettant la gestion de modules d'apprentissage progressifs avec dashboard interactif et suivi des étudiants.</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">RhVerse</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+          <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+        </p>
+        <p align="center"><strong>Application Mobile RH</strong> - Application Android de gestion des ressources humaines incluant la gestion des présences, congés, réunions et attestations.</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">ArchvoxLib</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Tkinter-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
+          <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+        </p>
+        <p align="center"><strong>Gestion de bibliothèque</strong> - Application desktop permettant la gestion des livres, membres et emprunts avec interface graphique et statistiques.</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">MemoPharma</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/JavaFX-FF6B6B?style=for-the-badge&logo=java&logoColor=white" />
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+          <img src="https://img.shields.io/badge/SceneBuilder-007396?style=for-the-badge&logo=java&logoColor=white" />
+        </p>
+        <p align="center"><strong>Gestion de suivi médical</strong> - Application JavaFX pour la gestion des patients, traitements et rendez-vous avec authentification sécurisée et statistiques.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h2 align="center">💻 Technical Skills</h2>
+
+<div align="center">
+  
+<h3>Languages</h3>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</p>
+
+<h3>Frameworks & Libraries</h3>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" />
+</p>
+
+<h3>Databases</h3>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+<h3>DevOps & Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+<h3>Machine Learning & Deep Learning</h3>
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+<h3>Conception & Modélisation</h3>
+<p>
+  <img src="https://img.shields.io/badge/UML-FF6B6B?style=for-the-badge&logo=uml&logoColor=white" />
+  <img src="https://img.shields.io/badge/Merise-2E8B57?style=for-the-badge&logo=merise&logoColor=white" />
+</p>
+
+</div>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EL-AAMMARI-Oumeyma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EL-AAMMARI-Oumeyma&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EL-AAMMARI-Oumeyma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EL-AAMMARI-Oumeyma&theme=tokyo-night&hide_border=true" width="90%"/>
+</div>
+
+<h2 align="center">🌐 Languages</h2>
+
+<div align="center">
+  
+| Language | Level |
+|:--------:|:-----:|
+| 🇲🇦 Arabe | Langue maternelle |
+| 🇫🇷 Français | Courant |
+| 🇬🇧 Anglais | Intermédiaire |
+
+</div>
+
+<h2 align="center">🤝 Extracurricular Activities</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🏥 Club Altruisme – ENSAO</h3>
+        <p><strong>Vice-présidente et responsable de cellule Al-Masjid</strong></p>
+        <p>2023 – 2025</p>
+      </td>
+      <td align="center" width="50%">
+        <h3>💻 Club Génie Informatique – ENSAO</h3>
+        <p><strong>Membre active de cellule Design</strong></p>
+        <p>2024 – 2025</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h2 align="center">🏆 Soft Skills</h2>
+
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/Autonomie-FF6B6B?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Sens_des_responsabilités-4ECDC4?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Motivation-45B7D1?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Engagement-96CEB4?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Adaptation-FFE194?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Travail_d'équipe-6C5B7B?style=for-the-badge" />
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=EL-AAMMARI-Oumeyma&style=for-the-badge&color=blueviolet" alt="Profile views" />
+</div>
+
+<div align="center">
+  <i>⭐️ From Oumeyma ELAAMMARI</i>
+</div>
