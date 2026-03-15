@@ -183,7 +183,9 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oumeyma-elaammari&theme=tokyo-night&hide_border=true" width="90%"/>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumeyma-elaammari&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
