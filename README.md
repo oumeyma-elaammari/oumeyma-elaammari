@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=!!Hi+👋,+I'm+Oumeyma+ELAAMMARI;"Software+Engineering+Student";"AI+&+Web+Development+Enthusiast"" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=\tHi+👋,+I'm+Oumeyma+ELAAMMARI;"Software+Engineering+Student";"AI+&+Web+Development+Enthusiast"" />
 </h1>
 
 <h3 align="center">🎓 Software Engineering student at the National School of Applied Sciences of Oujda (ENSAO)</h3>
@@ -31,7 +31,7 @@
   <a href="https://www.linkedin.com/in/oumeyma-elaammari/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/oumeyma-elaammari/" target="_blank">
+  <a href="https://github.com/EL-AAMMARI-Oumeyma" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
@@ -48,9 +48,8 @@
 </p>
 
 <p align="center">
-  Élève ingénieure en Génie Informatique, passionnée par le développement logiciel et la conception de solutions innovantes. 
-  Sérieuse, autonome et orientée travail en équipe, je recherche un stage de Projet de Fin d’Année (PFA) afin d’appliquer 
-  mes compétences techniques tout en contribuant à des projets concrets et à forte valeur ajoutée.
+  Software Engineering student at the National School of Applied Sciences of Oujda (ENSAO), passionate about software development and building innovative digital solutions. 
+  Serious, autonomous and team-oriented, I am seeking a Final Year Project Internship (PFA) to apply my technical skills while contributing to concrete, high-value projects.
 </p>
 
 <h2 align="center">🎓 Education</h2>
@@ -59,21 +58,21 @@
   
 | Period | Institution | Diploma |
 |:------:|:-----------:|:--------|
-| 2024 - 2027 | École Nationale des Sciences Appliquées d'Oujda (ENSAO) | Cycle Ingénieur en Génie Informatique |
-| 2022 - 2024 | École Nationale des Sciences Appliquées d'Oujda (ENSAO) | Cycle Préparatoire – Sciences techniques pour l'ingénieur |
-| 2021 - 2022 | Lycée Ibn Sina Oujda | Baccalauréat Sciences Physiques – Mention Très Bien |
+| 2024 - 2027 | National School of Applied Sciences of Oujda (ENSAO) | Engineering Cycle in Computer Science |
+| 2022 - 2024 | National School of Applied Sciences of Oujda (ENSAO) | Preparatory Cycle - Engineering Sciences |
+| 2021 - 2022 | Lycée Ibn Sina Oujda | Baccalaureate in Physical Sciences - Very Good Honor |
 
 </div>
 
 <h2 align="center">💼 Professional Experience</h2>
 
 <div align="center">
-  <h3>📍 Stage d'initiation – Cleverix (Juillet 2025)</h3>
-  <p><strong>Formation React / Laravel : Développement d'une application web e-commerce</strong></p>
+  <h3>📍 Initiation Internship – Cleverix (July 2025)</h3>
+  <p><strong>React / Laravel Training: E-commerce Web Application Development</strong></p>
   
-  • Interface utilisateur dynamique avec React (Hooks, Context API, Router)<br>
-  • Dashboard administrateur pour la gestion des utilisateurs, produits et commandes<br>
-  • Implémentation d'un système d'authentification sécurisé avec gestion des rôles (admin, sous-admin, client)
+  • Dynamic user interface with React (Hooks, Context API, Router)<br>
+  • Admin dashboard for managing users, products and orders<br>
+  • Implementation of a secure authentication system with role management (admin, sub-admin, client)
 </div>
 
 <h2 align="center">🚀 Featured Projects</h2>
@@ -88,7 +87,7 @@
           <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
         </p>
-        <p align="center"><strong>Plateforme E-learning</strong> - Application web permettant la gestion de modules d'apprentissage progressifs avec dashboard interactif et suivi des étudiants.</p>
+        <p align="center"><strong>E-learning Platform</strong> - Web application for managing progressive learning modules with interactive dashboard and student progress tracking.</p>
       </td>
       <td width="50%">
         <h3 align="center">RhVerse</h3>
@@ -97,7 +96,7 @@
           <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
           <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
         </p>
-        <p align="center"><strong>Application Mobile RH</strong> - Application Android de gestion des ressources humaines incluant la gestion des présences, congés, réunions et attestations.</p>
+        <p align="center"><strong>HR Mobile Application</strong> - Android application for human resources management including attendance tracking, leave requests, meetings, and certificates.</p>
       </td>
     </tr>
     <tr>
@@ -108,7 +107,7 @@
           <img src="https://img.shields.io/badge/Tkinter-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
           <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
         </p>
-        <p align="center"><strong>Gestion de bibliothèque</strong> - Application desktop permettant la gestion des livres, membres et emprunts avec interface graphique et statistiques.</p>
+        <p align="center"><strong>Library Management System</strong> - Desktop application for managing books, members and loans with graphical interface and statistics.</p>
       </td>
       <td width="50%">
         <h3 align="center">MemoPharma</h3>
@@ -117,7 +116,7 @@
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
           <img src="https://img.shields.io/badge/SceneBuilder-007396?style=for-the-badge&logo=java&logoColor=white" />
         </p>
-        <p align="center"><strong>Gestion de suivi médical</strong> - Application JavaFX pour la gestion des patients, traitements et rendez-vous avec authentification sécurisée et statistiques.</p>
+        <p align="center"><strong>Medical Monitoring Management</strong> - JavaFX application for managing patients, treatments and appointments with secure authentication and statistics.</p>
       </td>
     </tr>
   </table>
@@ -173,10 +172,11 @@
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-<h3>Conception & Modélisation</h3>
+<h3>Design & Modeling</h3>
 <p>
   <img src="https://img.shields.io/badge/UML-FF6B6B?style=for-the-badge&logo=uml&logoColor=white" />
   <img src="https://img.shields.io/badge/Merise-2E8B57?style=for-the-badge&logo=merise&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 </div>
@@ -202,9 +202,9 @@
   
 | Language | Level |
 |:--------:|:-----:|
-| 🇲🇦 Arabe | Langue maternelle |
-| 🇫🇷 Français | Courant |
-| 🇬🇧 Anglais | Intermédiaire |
+| 🇲🇦 Arabic | Native |
+| 🇫🇷 French | Fluent |
+| 🇬🇧 English | Intermediate |
 
 </div>
 
@@ -214,13 +214,13 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>🏥 Club Altruisme – ENSAO</h3>
-        <p><strong>Vice-présidente et responsable de cellule Al-Masjid</strong></p>
+        <h3>🏥 Altruism Club – ENSAO</h3>
+        <p><strong>Vice President and Al-Masjid Cell Responsible</strong></p>
         <p>2023 – 2025</p>
       </td>
       <td align="center" width="50%">
-        <h3>💻 Club Génie Informatique – ENSAO</h3>
-        <p><strong>Membre active de cellule Design</strong></p>
+        <h3>💻 Computer Science Club – ENSAO</h3>
+        <p><strong>Active Member of Design Cell</strong></p>
         <p>2024 – 2025</p>
       </td>
     </tr>
@@ -231,12 +231,12 @@
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/Autonomie-FF6B6B?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Sens_des_responsabilités-4ECDC4?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Autonomy-FF6B6B?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Responsibility-4ECDC4?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Motivation-45B7D1?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Engagement-96CEB4?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Adaptation-FFE194?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Travail_d'équipe-6C5B7B?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Commitment-96CEB4?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Adaptability-FFE194?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Teamwork-6C5B7B?style=for-the-badge" />
   </p>
 </div>
 
