@@ -190,23 +190,22 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumeyma-elaammari&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
 </div>
-
 <h2 align="center">🌟 Extracurricular Activities</h2>
 
 <div align="center">
   <br>
   <p>
-    <b>🏥 Club Altruisme – ENSAO</b> (2023 – 2025)<br>
-    <i>Vice-présidente et responsable de cellule Al-Masjid</i><br>
-    • Leadership d'équipe et coordination d'activités caritatives<br>
-    • Organisation d'événements communautaires et gestion de cellule
+    <b>🏥 Altruism Club – ENSAO</b> (2023 – 2025)<br>
+    <i>Vice President and Al-Masjid Cell Responsible</i><br>
+    • Team leadership and coordination of charitable activities<br>
+    • Organization of community events and cell management
   </p>
   
   <p>
-    <b>💻 Club Génie Informatique – ENSAO</b> (2024 – 2025)<br>
-    <i>Membre active de cellule Design</i><br>
-    • Création de contenu visuel et design pour les événements du club<br>
-    • Participation aux ateliers techniques et hackathons
+    <b>💻 Computer Science Club – ENSAO</b> (2024 – 2025)<br>
+    <i>Active Member - Design Cell</i><br>
+    • Visual content creation and design for club events<br>
+    • Participation in technical workshops and hackathons
   </p>
 </div>
 <h2 align="center">🏆 Soft Skills</h2>
