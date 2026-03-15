@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines==\tHi+👋,+I'm+Oumeyma+ELAAMMARI\t;"Software+Engineering+Student";"AI+&+Web+Development+Enthusiast"" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines==Hi+👋,+I'm+Oumeyma+ELAAMMARI\t;"Software+Engineering+Student";"AI+&+Web+Development+Enthusiast"" />
 </h1>
 
 <h3 align="center">🎓 Software Engineering student at the National School of Applied Sciences of Oujda (ENSAO)</h3>
@@ -12,11 +12,11 @@
 
 <div align="center">
  
- 🔭 I'm currently working on **improving my skills in Full Stack Development & AI**
+  I'm currently working on **improving my skills in Full Stack Development & AI**
  
- 🌱 I'm currently learning **Web and mobile Development, DevOps and AI**
+  I'm currently learning **Web and mobile Development, DevOps and AI**
  
- 👯 I'm looking for a **PFA Internship (Final Year Project)**
+  I'm looking for a **PFA Internship (Final Year Project)**
  
  📫 Reach me at **elaammarioumeima@gmail.com**
  
