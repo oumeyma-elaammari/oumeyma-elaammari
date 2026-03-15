@@ -191,38 +191,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumeyma-elaammari&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
 </div>
 
-
-<h2 align="center">🌐 Languages</h2>
-
-<div align="center">
-  
-| Language | Level |
-|:--------:|:-----:|
-| 🇲🇦 Arabic | Native |
-| 🇫🇷 French | Fluent |
-| 🇬🇧 English | Intermediate |
-
-</div>
-
-<h2 align="center">🤝 Extracurricular Activities</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>🏥 Altruism Club – ENSAO</h3>
-        <p><strong>Vice President and Al-Masjid Cell Responsible</strong></p>
-        <p>2023 – 2025</p>
-      </td>
-      <td align="center" width="50%">
-        <h3>💻 Computer Science Club – ENSAO</h3>
-        <p><strong>Active Member of Design Cell</strong></p>
-        <p>2024 – 2025</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <h2 align="center">🏆 Soft Skills</h2>
 
 <div align="center">
