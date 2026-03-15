@@ -1,15 +1,3 @@
-✨
-V2 Available Now!Try the new version
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-24077
-Fork on GitHub
-8284
-
-
 
 
 
