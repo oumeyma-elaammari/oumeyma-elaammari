@@ -192,36 +192,53 @@
 </div>
 
 
-<h2 align="center">🎯 Extracurricular Activities</h2>
+<h2 align="center">🌟 Extracurricular Activities</h2>
 
 <div align="center">
   <br>
-  
-  ### 🏥 Altruism Club – ENSAO
-  <p><strong>Vice President & Al-Masjid Cell Responsible</strong> | 📅 2023 – 2025</p>
-  <p>
-    <img src="https://img.shields.io/badge/-Team_Leadership-FF6B6B?style=flat-square" />
-    <img src="https://img.shields.io/badge/-Event_Planning-4ECDC4?style=flat-square" />
-    <img src="https://img.shields.io/badge/-Community_Service-45B7D1?style=flat-square" />
-  </p>
-  
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    
+  <!-- Club Altruisme Card -->
+  <img src="https://img.shields.io/badge/🏥_Club_Altruisme-FF6B6B?style=for-the-badge" />
   <br>
-  
-  ### 💻 Club Génie informatique – ENSAO
-  <p><strong>Active Member - Design Cell</strong> | 📅 2024 – 2025</p>
-  <p>
-    <img src="https://img.shields.io/badge/-Graphic_Design-6C5B7B?style=flat-square" />
-    <img src="https://img.shields.io/badge/-Social_Media-FFE194?style=flat-square" />
-    <img src="https://img.shields.io/badge/-Content_Creation-96CEB4?style=flat-square" />
-  </p>
-  
+  <table>
+    <tr>
+      <td align="center" width="400">
+        <img src="https://img.icons8.com/color/96/000000/charity.png" width="60"/>
+        <h3>🏥 Altruism Club – ENSAO</h3>
+        <p><strong>Vice President & Al-Masjid Cell Responsible</strong></p>
+        <p>📅 2023 – 2025</p>
+        <p>
+          <img src="https://img.shields.io/badge/Leadership-FF6B6B?style=flat-square" />
+          <img src="https://img.shields.io/badge/Event_Management-4ECDC4?style=flat-square" />
+          <img src="https://img.shields.io/badge/Team_Coordination-45B7D1?style=flat-square" />
+        </p>
+      </td>
+    </tr>
+  </table>
+
   <br>
-  
-  ### 📊 Achievements
-  <p>
-    <img src="https://img.shields.io/badge/🎯_Organized_10+_events-2E8B57?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/👥_Led_20+_team_members-6B46C1?style=for-the-badge" />
-  </p>
+
+  <!-- Club Génie Informatique Card -->
+  <img src="https://img.shields.io/badge/💻_Club_Génie_Informatique-6C5B7B?style=for-the-badge" />
+  <br>
+  <table>
+    <tr>
+      <td align="center" width="400">
+        <img src="https://img.icons8.com/color/96/000000/computer.png" width="60"/>
+        <h3>💻 Computer Science Club – ENSAO</h3>
+        <p><strong>Active Member - Design Cell</strong></p>
+        <p>📅 2024 – 2025</p>
+        <p>
+          <img src="https://img.shields.io/badge/UI/UX_Design-FF6B6B?style=flat-square" />
+          <img src="https://img.shields.io/badge/Creative_Design-4ECDC4?style=flat-square" />
+          <img src="https://img.shields.io/badge/Brainstorming-45B7D1?style=flat-square" />
+        </p>
+      </td>
+    </tr>
+  </table>
+
+  </div>
 </div>
 <h2 align="center">🏆 Soft Skills</h2>
 
