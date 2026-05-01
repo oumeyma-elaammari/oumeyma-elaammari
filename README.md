@@ -16,7 +16,7 @@
  
   🌱 I'm currently learning **Web and mobile Development, DevOps and AI**
  
-  👯 I'm looking for a **PFA Internship (Final Year Project)**
+  🔭 I'm looking for a **PFA Internship (Final Year Project)**
  
   📫 Reach me at **elaammarioumeima@gmail.com**
  
