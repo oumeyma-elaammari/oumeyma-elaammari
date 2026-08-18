@@ -32,7 +32,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=header" width="100%"/>
 
-## 💼 Professional Experience
+## Professional Experience
 
 <table>
 <tr>
@@ -43,9 +43,8 @@
 
 *Business process automation with Power Automate*
 
-- ⚙️ Generic, role-based automation solution — request validation, notifications, status tracking
-- 🔗 Built with Power Automate, SharePoint, Teams, Outlook & Excel
-- 👤 Onboarding flow: HR intake → IT notification (M365 setup) → resource prep → welcome email → HR confirmation
+-  Generic, role-based automation solution — request validation, notifications, status tracking
+-  Built with Power Automate, SharePoint, Teams, Outlook & Excel
 
 <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white"/>
 <img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white"/>
@@ -59,9 +58,9 @@
 
 *React / Laravel — E-commerce web app*
 
-- 🖥️ Dynamic UI with React (Hooks, Context API, Router)
-- 📊 Admin dashboard — users, products, orders
-- 🔐 Secure auth with role management (admin, sub-admin, client)
+-  Dynamic UI with React (Hooks, Context API, Router)
+-  Admin dashboard — users, products, orders
+-  Secure auth with role management (admin, sub-admin, client)
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
@@ -76,7 +75,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 SmarTest <sub>*(PFE — ongoing)*</sub>
+### 🧠 SmarTest 
 **Secure intelligent quiz & exam platform**
 
 .NET desktop app for professors + React web app for students, powered by a Spring Boot / MySQL backend. Real-time WebSocket communication, JWT auth, AI question generation via Groq API.
