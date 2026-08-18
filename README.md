@@ -25,7 +25,7 @@
 
 <p align="center">
   🔭 Currently doing my <b>PFA internship at Novelis</b>, automating business processes with <b>Power Automate</b><br/>
-  🌱 Currently learning <b>Power Automate, Web/Mobile Dev, DevOps & AI</b><br/>
+  🌱 Currently learning <b>Web/Mobile Dev, DevOps & AI</b><br/>
   🎯 Looking for a <b>PFE (Final Year Project) Internship</b><br/>
   ⚡ I enjoy <b>building practical software projects and exploring new technologies</b>
 </p>
