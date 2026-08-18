@@ -227,6 +227,7 @@ JavaFX app for managing patients, treatments and appointments, with secure authe
 <td width="50%" valign="top">
 
 **🏥 Altruism Club — ENSAO** <sub>*2023–2025*</sub>
+<br>
 *Vice President & Al-Masjid Cell Responsible*
 - Team leadership & coordination of charitable activities
 - Organization of community events
@@ -234,7 +235,8 @@ JavaFX app for managing patients, treatments and appointments, with secure authe
 </td>
 <td width="50%" valign="top">
 
-**💻 Computer Science Club — ENSAO** <sub>*2024–2025*</sub>
+**💻Club GI — ENSAO** <sub>*2024–2025*</sub>
+<br>
 *Active Member — Design Cell*
 - Visual content creation for club events
 - Participation in technical workshops
