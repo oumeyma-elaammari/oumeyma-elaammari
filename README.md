@@ -212,12 +212,12 @@ JavaFX app for managing patients, treatments and appointments, with secure authe
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=oumeyma-elaammari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=oumeyma-elaammari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
   <img src="https://streak-stats.demolab.com/?user=oumeyma-elaammari&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oumeyma-elaammari&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumeyma-elaammari&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
 </p>
 
 ## 🌟 Extracurricular Activities
